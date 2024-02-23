@@ -1,0 +1,3 @@
+# Deploy to Netlify
+# Clean up references redundant files
+# Create blog template for Netlify

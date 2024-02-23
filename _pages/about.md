@@ -1,28 +1,20 @@
 ---
+title: About
+image: /img/uploads/sapnayadav.jpg
 layout: page
-title: About Me
-seo_title: Meeting Xavier Rosée
-permalink: /about/
 ---
+Hi, my name is Sapna Dalaya Yadav. I love travelling and exploring new places. Im lucky to have a husband who feels the same. We have lived in different countries starting in India, Africa, New Zealand and now Australia. Living in different countries has made me more open and curious about the way of life in different places. I believe that we are all connected and i do not believe in division based on religion, beliefs, countries, political views. Any thing that divides humanity is not good for us. We are meant to live in harmony and enjoy  together. 
 
-![GIF of Rupaul saying ‘Hello Hello Hello’][rupaul]
+I love interacting with children. I believe that until the age of five, children have still not forgotten pure joy, thats the reason that they speak the truth, they do not worry about the past or the future. They live in the moment. I am lucky to be in a job where i get to interact with these little people. With them, i also experience the moment!
 
-Hi, I’m Xavier Rosée. Up to [2020][2020] I was a Mobile Marketing Professional with a strong focus in branding and strategy. Over the course of my career at companies like Microsoft, Gameloft, [Substantial Games][substantial], [Fifth Journey][5jny] and [my own boutique consultancy][offtheground], I’ve witnessed the evolution of marketing into a two-pronged role: you’re either a data-literate creative individual, or a strong analyst with an eye for creative work.
+I was born in Nagpur and studied in Mumbai. Most of the time i was at my neighbours house, a beautiful and Kind lady, who became my second mom, and I started calling her " Aai" ( mother in Marathi which is the state language of Maharashtra). I felt totally drowned in love of my Parents and my Aai and her husband, my baba. Those days we lived in a one bedroom apartment. The apartment never felt small because i was also living in Aai's house, and my friend " Hameeda" was the daughter of a Muslim family that lived opposite Aai's apartment. Her Parents were called " Abba and Ammi" by everybody. Nobody spoke about differences, but only spoke about embracing each others beliefs. My Aai started going to the church in Mahim along with my Mum. 
 
-After a couple of years learning Data Analysis and Python by myself to craft a Product Design offering for my consultancy, my business and livelihood were hit by COVID-19. Taking this opportunity to reflect on the industry, the marketing role and my future, I’ve decided to pivot my career toward a data-first Product role.
+These ladies had a grand time everyday. They did their work but they interacted everyday They sat on the steps of my Aai's house, cutting vegetables, sometimes stitching borders on saris. They were happy wives as they had each other to share their problems with. when we moved into our own apartment in Andheri a few years later, i missed this community feeling.This feeling of being safe and supported by everybody is totally absent nowadays as people become more self centred. We must realise that man cant live in isolation, no matter how many riches we have, unless we have people to share it with, we will not be happy! When will we wake up.
 
-This space covers **Data Science** and **Data Analytics** along with their use among the mobile and gaming spaces. I will share the things I find useful in my journey to Data Science, hoping that it can help someone with their own explorations.
-
----
-
-For those interested in launching their Data Science career, I’ve outlined the steps I’m taking to fast-track my pivot to Data Science in [my first post][first_post].
-
-_Thanks for reading!_
+- - -
 
 
-[rupaul]: https://media.giphy.com/media/3oEjI99ZdyZRE9Dw5O/giphy.gif
-[first_post]: {% post_url 2020-11-28-print-hello-world %}
-[2020]: https://is2020over.com
-[substantial]: https://www.youtube.com/watch?v=sZpHkcRYGh8
-[5jny]: https://www.fifth-journey.com
-[offtheground]: https://offtheground.io
+
+- - -
+
+*Thank You for reading!*

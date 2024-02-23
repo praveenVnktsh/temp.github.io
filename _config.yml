@@ -1,91 +1,54 @@
-title: Xavier Rosée | Product Design, Data Science and Analysis
-logo: /images/xr_logo.png
-description: Xavier Rosée is the founder of Off The Ground, a fully-remote Mobile Product Consultancy. This is a space where he talks about his journey to Data Science.
+title: Sapna Yadav
+logo: # You can add own logo. For example '/images/logo.png'.
+description: Melotta is a modern and minimal Jekyll theme for sharing your ideas.
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://xavierrosee.com" # the base hostname & protocol for your site, e.g. https://example.com
-brand: Xavier Rosée
+url: "" # the base hostname & protocol for your site, e.g. http://example.com
 
 # Author Settings
 author:
-  name: Xavier Rosée
-  image: '/images/xavier.jpg'
-  twitter: xavierosee
+  name: Sapna Yadav
+  image: "/images/01.jpg"
 
 # Contact links
 # Example of adding a new link to the footer - {name: "Github", icon: "ion-logo-github", link: "https://github.com"}
 # Other icons can be found at https://ionicons.com
-contact:
-- {name: "Email", icon: "ion-ios-mail", link: "mailto:xavier@xavierrosee.com"}
 
 # Slider Section
-slider: featured # NOTE - By default, the slider is set to display tags. Now the slider shows the tag with the text "Featured". If you do not want to use the slider, leave the slider field empty.
+slider: Life # NOTE - By default, the slider is set to display tags. Now the slider shows the tag with the text "Life". If you do not want to use the slider, leave the slider field empty.
 
 # Comment Section (Disqus)
-disqus-identifier: # add your shortname for Disqus Comment. For example mr-brown
-
-# Instagram Feed
-instafeed: true # To enable the instafeed, use the value true. To turn off use the value false.
-instagram-profile: https://www.instagram.com/xavierosee
-userID: 6716400487
-accessToken: 6716400487.1677ed0.4fae51c47bc544a895b81756a7d0c477
+# disqus-identifier: mr-brown # add your shortname for Disqus Comment. For example mr-brown
 
 # Google Analytics
 google-analytics: # Add your identifier. For example UA-99631805-1.
+instafeed: false
 
 # Build settings
 markdown: kramdown
-permalink: pretty
+permalink: /:title
 plugins:
   - jekyll-paginate
   - jekyll-sitemap
   - jekyll/tagging
-  - jekyll-archives
-  - jekyll-target-blank
-  - jekyll-feed
 
 paginate: 9
 paginate_path: "/page/:num"
 
-# Page Paths and Post Defaults
+# Pages Path
 defaults:
   - scope:
-      path: '_pages'
+      path: "_pages"
     values:
       permalink: /:basename:output_ext
-  - scope:
-      type: 'posts'
-    values:
-      permalink: /:year/:title:output_ext
-      layout: post
-      author: 'Xavier Rosée'
-      excerpt-separator: '<!--more-->'
 
 include:
   - _pages
 
 # Tags
-tag_page_dir:         tag
-tag_page_layout:      tag_page
-tag_permalink_style:  pretty
+tag_page_dir: tag
+tag_page_layout: tag_page
+tag_permalink_style: pretty
 
 sass:
   sass_dir: _sass
   style: compressed
-
-# SEO
-twitter:
-  username: xavierosee
-  card: summary
-
-social:
-  name: Xavier Rosée
-  links: 
-    - https://twitter.com/xavierosee
-    - https://www.facebook.com/xavierosee
-    - https://www.linkedin.com/in/xrosee
-    - https://github.com/xavierosee
-
-webmaster-verifications:
-  google: Bf33sq73BdZ6Y87VK0NSpxnzBRVIXfqw1AcgsguePRY
-  bing: 92ED59286A439C445807B3CD562366D3
-  yandex: 7a3dd8b527403c95

@@ -1,53 +1,46 @@
 <head>
-  <meta charset="utf-8">
-  <meta http-equiv="X-UA-Compatible" content="IE=edge">
-  <meta name="viewport" content="width=device-width, initial-scale=1">
+	<meta charset="utf-8" />
+	<meta http-equiv="X-UA-Compatible" content="IE=edge" />
+	<meta name="viewport" content="width=device-width, initial-scale=1" />
 
-  <title>{% if page.seo_title %}{{ page.seo_title }}{% elsif page.title %}{{ page.title }}{% else %}{{ site.title }}{% endif %}</title>
-  <meta name='description' content='{% if page.summary %}{{ page.summary | strip_html | strip_newlines | truncate: 160 }}{% else %}{{ site.description }}{% endif %}'>
+	<title>
+		{% if page.title %}{{ page.title }}{% else %} {{
+		site.data.settings.title }} {% endif %}
+	</title>
+	<meta
+		name="description"
+		content="{% if page.description %}{{ page.description | strip_html | strip_newlines | truncate: 160 }}{% else %}{{ site.data.settings.description }}{% endif %}"
+	/>
 
+	<link
+		rel="canonical"
+		href="{{ page.url | replace:'index.html','' | absolute_url }}"
+	/>
+	<link rel="alternate" type="application/rss+xml" title="{{ site.title |
+	escape }}" href="{{ "/feed.xml" | relative_url }}">
 
-  <!-- Plausible.io snippet -->
-  <script async defer data-domain="xavierrosee.com" src="https://an.xavierrosee.com/js/index.js"></script>
-  <!-- End Plausible snippet -->
+	<!-- Fonts -->
+	<link
+		href="https://fonts.googleapis.com/css?family=Lora:400,700"
+		rel="stylesheet"
+	/>
+	<link
+		href="https://fonts.googleapis.com/css?family=Josefin+Sans"
+		rel="stylesheet"
+	/>
 
-  <link rel="canonical" href="{{ page.url | replace:'index.html','' | absolute_url }}">
-  <link rel="alternate" type="application/rss+xml" title="{{ site.title | escape }}" href="{{ "/feed.xml" | relative_url }}">
+	<!-- Ionicons -->
+	<link
+		href="https://unpkg.com/ionicons@4.2.2/dist/css/ionicons.min.css"
+		rel="stylesheet"
+	/>
 
-  <!-- Fonts -->
-  <link href="https://fonts.googleapis.com/css?family=Lora:400,700" rel="stylesheet">
-  <link href="https://fonts.googleapis.com/css?family=Josefin+Sans" rel="stylesheet">
-  <link href="https://fonts.googleapis.com/css?family=Poppins:200,400&display=swap" rel="stylesheet">
+	<script src="https://identity.netlify.com/v1/netlify-identity-widget.js"></script>
 
-  <!-- Ionicons -->
-  <link href="https://unpkg.com/ionicons@4.2.2/dist/css/ionicons.min.css" rel="stylesheet">
-
-  <!-- Favicon & Apple Touch icons -->
-  <link rel="shortcut icon" type="image/png" href="/favicon.png" />
-  <link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png" />
-  <link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png" />
-  <link rel="icon" type="image/png" sizes="144x144" href="/favicon-144x144.png" />
-  <link rel="icon" type="image/png" sizes="256x256" href="/favicon-256x256.png" />
-  <link rel="icon" type="image/png" sizes="512x512" href="/favicon-512x512.png" />
-
-  <style>
-  {% capture include_to_scssify %}
-    {% include main.scss %}
-  {% endcapture %}
-  {{ include_to_scssify | scssify }}
-  </style>
-  <!-- SEO -->
-  <meta name="msvalidate.01" content="92ED59286A439C445807B3CD562366D3" /> <!-- Bing -->
-  <meta name="yandex-verification" content="7a3dd8b527403c95" />
-
-  {% include open-graph.html %}
-  {% include twitter-card.html %}
-
-  <!-- Author stuff for Linkedin -->
-  {% if author.name %}
-    <meta name="author" content="{{ author.name }}">
-  {% else %}
-    <meta name="author" content="Xavier Rosée">
-  {% endif %}
-
+	<style>
+		{% capture include_to_scssify %}
+		  {% include main.scss %}
+		{% endcapture %}
+		{{ include_to_scssify | scssify }}
+	</style>
 </head>

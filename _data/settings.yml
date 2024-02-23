@@ -1,0 +1,12 @@
+title: Sapna Yadav
+description: 'A website about growth, learning experiences!'
+authorName: Sapna Yadav
+authorImage: /img/uploads/inbound9090198531349661512.jpg
+items:
+  - icon: ion-ios-mail
+    link: sapnayadav@gmail.com
+    name: Email
+instagramProfileUrl: '3'
+instagramUserId: '2'
+instagramAccessToken: '1'
+googleAnalyticsId: UA-93042573-2
