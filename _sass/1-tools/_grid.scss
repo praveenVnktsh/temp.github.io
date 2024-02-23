@@ -1,8 +1,10 @@
+/* Grid */
 $columns: 12;
 $container-base-width: 1300px;
 $container-offset: $base-spacing-unit;
 
-$desktop: 992px;
+$wide: 1400px;
+$desktop: 1024px;
 $tablet:  768px;
 $mobile:  576px;
 
@@ -12,14 +14,37 @@ $mq: ( $mobile:$columns, $tablet:$columns, $desktop:$columns );
   max-width: $container-base-width;
   padding-left: $container-offset;
   padding-right: $container-offset;
-  margin: 0 auto;
 }
 
-.container-full {
+.container-big {
   max-width: 100%;
-  padding-left: $container-offset;
-  padding-right: $container-offset;
+  padding-left: calc(#{$container-offset} * 4);
+  padding-right: calc(#{$container-offset} * 4);
+}
+
+.container,
+.container-big {
   margin: 0 auto;
+
+  @media only screen and (max-width: $wide) {
+    max-width: 1000px;
+    padding-left: $container-offset;
+    padding-right: $container-offset;
+  }
+
+  @media only screen and (max-width: $desktop) {
+    max-width: 740px;
+  }
+
+  @media only screen and (max-width: $tablet) {
+    max-width: 560px;
+  }
+
+  @media only screen and (max-width: $mobile) {
+    max-width: 480px;
+    padding-left: calc(#{$container-offset} + 4px);
+    padding-right: calc(#{$container-offset} + 4px);
+  }
 }
 
 .row {
@@ -62,6 +87,28 @@ $mq: ( $mobile:$columns, $tablet:$columns, $desktop:$columns );
 
 
 @each $key, $val in $mq {
+
+    // WIDE
+  @media(max-width: $wide) {
+
+    @for $i from 0 through $columns {
+      .col-w-#{$i} {
+        width: percentage( $i / $columns );
+      }
+    }
+
+    @for $i from 0 through $columns {
+      .push-w-#{$i} {
+        margin-left: percentage( $i / $columns );
+      }
+    }
+
+    @for $i from 0 through $columns {
+      .pull-w-#{$i} {
+        margin-right: percentage( $i / $columns );
+      }
+    }
+  }
 
   // DESKTOP
   @media(max-width: $desktop) {
@@ -115,7 +162,7 @@ $mq: ( $mobile:$columns, $tablet:$columns, $desktop:$columns );
       .col-m-#{$i} {
         width: percentage( $i / $columns );
       }
-    }  
+    }
 
     @for $i from 0 through $columns {
       .push-m-#{$i} {

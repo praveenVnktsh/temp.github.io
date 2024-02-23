@@ -1,20 +1,28 @@
 ---
-title: About
-image: /img/uploads/sapnayadav.jpg
 layout: page
+title: About
+permalink: /about/
+image: '/images/102.jpg'
 ---
-Hi, my name is Sapna Dalaya Yadav. I love travelling and exploring new places. Im lucky to have a husband who feels the same. We have lived in different countries starting in India, Africa, New Zealand and now Australia. Living in different countries has made me more open and curious about the way of life in different places. I believe that we are all connected and i do not believe in division based on religion, beliefs, countries, political views. Any thing that divides humanity is not good for us. We are meant to live in harmony and enjoy  together. 
 
-I love interacting with children. I believe that until the age of five, children have still not forgotten pure joy, thats the reason that they speak the truth, they do not worry about the past or the future. They live in the moment. I am lucky to be in a job where i get to interact with these little people. With them, i also experience the moment!
+In operant conditioning, a reinforcement (by reward) or instead a punishment is given after a given behavior, changing the frequency and/or form of that behavior. Stimulus present when the behavior/consequence occurs come to control these behavior modifications.
 
-I was born in Nagpur and studied in Mumbai. Most of the time i was at my neighbours house, a beautiful and Kind lady, who became my second mom, and I started calling her " Aai" ( mother in Marathi which is the state language of Maharashtra). I felt totally drowned in love of my Parents and my Aai and her husband, my baba. Those days we lived in a one bedroom apartment. The apartment never felt small because i was also living in Aai's house, and my friend " Hameeda" was the daughter of a Muslim family that lived opposite Aai's apartment. Her Parents were called " Abba and Ammi" by everybody. Nobody spoke about differences, but only spoke about embracing each others beliefs. My Aai started going to the church in Mahim along with my Mum. 
+> Sing like no one’s listening, love like you’ve never been hurt, dance like nobody’s watching, and live like it’s heaven on earth.
 
-These ladies had a grand time everyday. They did their work but they interacted everyday They sat on the steps of my Aai's house, cutting vegetables, sometimes stitching borders on saris. They were happy wives as they had each other to share their problems with. when we moved into our own apartment in Andheri a few years later, i missed this community feeling.This feeling of being safe and supported by everybody is totally absent nowadays as people become more self centred. We must realise that man cant live in isolation, no matter how many riches we have, unless we have people to share it with, we will not be happy! When will we wake up.
+Observational learning is learning that occurs through observing the behavior of others. It is a form of social learning which takes various forms, based on various processes. In humans, this form of learning seems to not need reinforcement to occur, but instead, requires a social model such as a parent, sibling, friend, or teacher with surroundings.
 
-- - -
+<div class="gallery-box">
+  <div class="gallery">
+    <img src="/images/103.jpg" loading="lazy">
+    <img src="/images/104.jpg" loading="lazy">
+  </div>
+  <em>Gallery / <a href="https://unsplash.com/" target="_blank">Unsplash</a></em>
+</div>
 
+Nonformal learning is organized learning outside the formal learning system. For example, learning by coming together with people with similar interests and exchanging viewpoints, in clubs or in (international) youth organizations, workshops.
 
+Informal learning is less structured than "nonformal" one. It may occur through the experience of day-to-day situations (for example, one would learn to look ahead while walking because of the danger inherent in not paying attention to where one is going). It is learning from life, during a meal at the table with parents, play, exploring, etc.
 
-- - -
+<p><iframe src="https://player.vimeo.com/video/148003889?h=d36b8b4cbb" loading="lazy" width="640" height="360" frameborder="0" allowfullscreen></iframe></p>
 
-*Thank You for reading!*
+The educational system may use a combination of formal, informal, and nonformal learning methods. The UN and EU recognize these different forms of learning (cf. links below). In some schools, students can get points that count in the formal-learning systems if they get work done in informal-learning circuits. They may be given time to assist international youth workshops and training courses, on the condition they prepare, contribute, share, and can prove this offered valuable new insight, helped to acquire new skills, a place to experience.

@@ -1,29 +1,51 @@
 /* Contact */
-.contact {
-  margin: 50px 0 0;
-  text-align: center;
-  .contact__item {
-    display: inline-block;
-    margin: 0 20px;
+.form-box {
+  margin-bottom: 100px;
 
-    @media only screen and (max-width: $tablet) {
-      margin: 0 10px;
-    }
+  @media only screen and (max-width: $mobile) {
+    margin-bottom: 80px;
+  }
+}
+
+.contact-head {
+  margin-bottom: 32px;
+}
+
+.contact-description {
+  font-size: 21px;
+  color: var(--text-alt-color);
+
+  @media only screen and (max-width: $mobile) {
+    font-size: inherit;
+  }
+}
+
+.form__group {
+  margin-bottom: 20px;
+
+  &:last-child {
+    margin-bottom: 0;
+  }
+}
+
+.form__input {
+  width: 100%;
+  padding: 20px;
+  font-size: 16px;
+  font-weight: 400;
+  border: 1.5px solid rgba(103, 115, 135, 0.35);
+  border-radius: 8px;
+  outline: 0;
+  transition: .25s ease-in-out;
+  resize: vertical;
+  color: var(--heading-font-color);
+  background: var(--background-color);
+
+  &::placeholder {
+    color: var(--text-alt-color);
   }
 
-  .contact__link {
-    font-size: 12px;
-    line-height: 24px;
-    letter-spacing: 2px;
-    text-transform: uppercase;
-    &:hover {
-      color: $dark;
-    }
-    i {
-      margin-right: 5px;
-    }
-    @media only screen and (max-width: $tablet) {
-      letter-spacing: 1px;
-    }
+  &:focus {
+    border-color: var(--brand-color);
   }
 }
