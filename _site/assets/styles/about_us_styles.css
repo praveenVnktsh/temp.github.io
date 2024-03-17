@@ -1,0 +1,21 @@
+/* styles.css */
+.container {
+  max-width: 960px;
+  margin: 0 auto;
+}
+
+.team-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(200px, 1fr)); /* This is the important line */
+
+  gap: 20px;
+}
+
+.team-member {
+  text-align: center;
+}
+
+.team-member img {
+  max-width: 70%;
+  border-radius: 5%;
+}

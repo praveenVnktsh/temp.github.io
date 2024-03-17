@@ -1,0 +1,203 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+        <title>MRSD</title>
+        <description>A bi-annual newsletter for the Masters in Robotic Systems Development program at Carnegie Mellon University.</description>
+        <link>http://localhost:4000/</link>
+        <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
+        <pubDate>Fri, 15 Mar 2024 11:33:31 -0400</pubDate>
+        <lastBuildDate>Fri, 15 Mar 2024 11:33:31 -0400</lastBuildDate>
+        <generator>Jekyll v3.9.2</generator>
+        
+            <item>
+                <title>Bkah</title>
+                <description>&lt;p&gt;What a ride!
+As a confluence of passions—my Spectrum ZX in the eighties, coding games in basic and assembly when I was 11,
+soldering radios on my hand-crafted PCBs, and my mechanical engineering undergrad—I decided to start a
+robotics company. I wanted to do that from a place of knowledge and build a team of peers with excellence.
+I was 48 and with two kids, Maria and Antonio, in college when I was accepted to the Masters of Robotics
+Systems Development (MRSD) at Carnegie Mellon University (CMU). I was elated and prepared, but given my age
+and career stage, it crossed my mind that this was some kind of experiment by the admissions committee. I
+wanted to prove them right and this is how I did it. Hopefully, it will inspire future students:
+Super Powers
+Sleep well and unlock your full potential by using 100% of your faculties. You won’t be yawning on people’s faces
+and be a lot more fun to be around. I never put on an all-nighter and was fresh every morning, hopping on my
+bike, sun or snow, and riding to campus.
+I regretted every time I broke this rule. A few times, I spent a few hours late trying to finish a tough assignment
+and ended up going to bed defeated and exhausted. After a good night’s sleep, I solved the same hard problem
+in a few minutes.
+Move mountains
+Be healthy, eat right, and have all meals. Snack healthy, with the occasional treat. Sipping on a cup of tea gives
+great focus while studying. Work out at least three times a week. Swimming, yoga, dance, or a run outside. Walk
+or bike to CMU every day if you can.
+My wife, Rafaela was my biggest source of strength and motivation. She had access to the CMU facilities and
+enjoyed every special lecture and event. With her support, I was able to keep discipline, and good habits and was
+ready to take on any challenge. Invite a friend to join you in your healthy routine.
+Good job Andrew
+Enjoy Pittsburgh and CMU perks. After working Saturday mornings at CMU, I would go for a swim with Rafaela
+and walk to the Carnegie Museum of Art for lunch and appreciate some art. Other times, we would walk to
+Phipps Botanical Gardens and admire their exhibits while enjoying tropical weather while snowing outside. I was
+then ready to go back to CMU and meet my group, refreshed and full of ideas.
+Sunday mornings, we would hike at Frick Park and then have lunch at Noodlehead. After a short walk in
+Shadyside and a cup of espresso, I was ready to work the remainder of the afternoon and set myself up for a
+successful week. If there was a nice movie showing in Squirrel Hill, we would do that too.
+Certain je ne sais quoi
+Art can inspire. I believe there are three ways to solve hard problems and a combination of them is common:&lt;/p&gt;
+&lt;ol&gt;
+  &lt;li&gt;Brute Force - usually bad, since it can easily turn into demoralizing mind-numbing trial and error&lt;/li&gt;
+  &lt;li&gt;Research - usually great and principled—sarcastically, “A month in the laboratory can often save an hour in the
+library.” — Frank Westheimer&lt;/li&gt;
+  &lt;li&gt;Creativity. - is what sparks breakthroughs. The inspired solutions: the cleanest, simplest, most obvious(after
+the fact), and impactful. Being able to see the whole with clarity, and connecting disparate areas is what sets
+great engineers and scientists apart. If you walk out of a museum looking for your sketchbook to write or draw
+an idea, art has done its job.&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;There is always tomorrow
+But do not procrastinate. Even assignments that look easy will get harder as you progress, and consume all the
+allotted time. As soon as an assignment is out, download it and skim through it. Understand if it is self-contained
+and download any additional resources needed and code.
+The next day, read it and get a solid understanding of the theory behind it, before trying to solve it. The following
+day, familiarize yourself with the code, data structures, functions, methods, and libraries. Run unit tests and
+operated code manually like turning knobs to understand its inputs and outputs.
+Solve any theory questions and code logic on pen and paper first. Only after you think that you have a solution,
+code it up. Type answers to the assignment as you go. That avoids the time to synthesize the whole assignment
+at once. Leave it alone for a day. Revise it one more time and submit it. Don’t spend too much time on that last
+5% or perfection. Just do the best possible you can, by yourself, and move on to the next task.
+Starting any work is the hardest part. But once you start, you will get in the flow. A good habit that writers use is&lt;/p&gt;
+
+&lt;p&gt;to stop writing mid-chapter or paragraph. This is counterintuitive, but it is a lot easier to pick something mid-
+sentence than to start working on a fresh new task. So when you reach a good point amicable to re-entry—hard&lt;/p&gt;
+
+&lt;p&gt;but easy enough—stop it. Write down what your next step should be while your mind is on the problem and
+move on. The exception is, if things are flowing like water, thank the universe, and stay at it.
+Bookworm
+Study smart. The first lecture is when professors will motivate the subject and show where each topic will fit in
+over the semester. Keep those things in perspective. Otherwise, you might understand discrete pieces of the
+material, and get perfect grades, but go in the wild without knowing what to do with it.
+Build a cheat sheet (and get away from slides) keeping concepts summarized and connected. You can make one
+for planning, one for control, computer vision, etc. That can also turn into your professional working manual
+when you graduate.
+There is a bottom-up and a top-down approach to learning. We need both to connect in the middle. Don’t get
+super too narrow and deep too quickly. Be curious, see the whole, discover, play with it, and connect ideas.
+Understand from the basics building up to the hardest and most complex aggregates.
+Given a new concept write with plain words your understanding and how would you explain or teach it to a
+child(Feynman). Work on a blank paper, organize and connect different concepts and ideas, with diagrams and
+arrows. The goal is to get good at confronted with a problem, you will know the many ways to solve it.
+Read from different sources to improve your intuition. Interleave study and research to be quick on your feet.
+Reach out to experienced engineers, roboticists, and CMU professors. I you see a little windowless nook in the
+basement, peek inside and you might find an amazing PhD student working on cutting-edge material and eager
+to share their work.&lt;/p&gt;
+
+&lt;p&gt;Think like a roboticist (or in your area) and let curiosity drive your studies. Pretend you are designing, building,
+and controlling an autonomous mobile base with a manipulator. As you learn new concepts in any subject, think
+about where they fit in your robot.
+Hardware rules. Autonomy rules. There is nothing like implementing software on a real autonomous robot. Some
+unknowns (perception, friction and binding forces, encoder wraparounds) will never happen the same way or at
+all in simulation. I went to CMU wanting to develop real robots. At every first lecture, I asked the professor, “Can
+I use a robot or build a robot for this class?”. The answer was always a resounding “yes!”. Know what you want
+and ask for it.
+Be persistent. There will be a point when ideas will start repeating themselves and you will realize that you start
+seeing the whole and knowing what you do. You are beginning to become a master of your art.&lt;/p&gt;
+
+&lt;p&gt;Many hats
+Work on everything every day and be ready for context changes. Be a pro and work like a pro. Make sure all
+assignments are being worked on, with total focus, at different stages. Don’t get stuck on one thing. Keep them
+organized. I use physical binders with neat lecture notes, printouts, and to-dos.
+It is not enough to stick a bunch of smart people in the room and expect great work to happen. Facilitate and
+empower your team to have a clear direction. Keep the ball rolling on every front, and work every chance you
+have to move an inch forward. Hard Work is like compound interest(Randy Pausch). The ability to change context
+and perform at your best alone and in a team will transfer to your career.
+Laws of Motion
+Keep moving. About every 45 to 60 minutes take a break from studying, and go for a walk(Pomodoro Technique).
+Leave the problem alone for a while and you might crack it a few minutes after walking away from it. Stretch
+your legs, your body. It will ground you, refresh your mind, and remind you that you are still living in the real
+world. Power naps and breathing exercises are great too!
+Walk through different schools at CMU and you will meet amazing people. You might also have serendipitous
+encounters like when I bumped into Red Whittaker at Gates Cafe… Ok, what happened was that when I saw him
+having his Greek yogurt, I walked unsuspectingly, across the whole thing with my Greek yogurt and sat but his
+side. He opened a big smile and we had a conversation of a lifetime.
+Fundamentals are fundamental
+Don’t be a hacker. Learn the fundamentals* and be principled. It is so refreshing to collaborate with someone
+who just knows it. No guessing, no pretending. Be that person. It will keep your head over the water during class,
+reinforcing familiar material, and freeing you up to absorb new ones. When you find gaps in your learning, jump
+right into it. Keep learning every chance you get. While standing in line for 5 minutes, pull your phone up and
+quickly check on some lingering topic.
+In software, most people will reach for a library or framework that abstracts everything away—a computer
+science tic. In many cases, those abstractions sit on top of awful layers of planet-warming cross-dependent
+complexities running slow and inefficient code, another CS tic. I understand better looking under the hood. “Hey
+look, it’s that algorithm exactly as we learned in SLAM. Now we know what’s going on and we can do better”. Be
+brave, open the hood, and save our planet.&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;https://mrsd.ri.cmu.edu/skill-set/
+Shiny objects
+Robotics is a rich field with a lot of breadth and interesting topics. But is noisy and full of hype. Be attentive and
+discerning. Think with your head and don’t ignore whole bodies of work that are principled and proven to work.
+Neural Networks are great, but understanding traditional AI will take you farther than spending your whole time
+fiddling with a black box. I enjoyed Prof. Srinivasa’s computer vision class, where he taught us fundamental
+methods of computer vision so that we understood what was going on under the hood of a neural network,
+which he taught us at the end of the course.
+Only one you
+Don’t fake it, just make it. Be genuine. Be truthful. Be yourself. Confidence goes a long way and you have to
+believe in yourself. But integrity goes further. Don’t pretend to be someone else. Don’t duckspeak a sequence of
+jargon strung together void of any meaning (1984, Orwell).
+People will see right through it. Speak with knowledge, clearly, and simply. If you can teach a subject, then you
+know it. It is liberating and people will want to work with you every time.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Force of nature
+Be positive. There is a lot of negativity out there and people capitalizing on the doom and gloom. If you let that
+drive you it will be hard to be functional. The world is messed up. But in the long term is only getting better. Your
+job now is to be a student. Focus on your goals, be curious, and learn as much as you can with awe.
+Being in a robotics program at CMU is a privilege granted to very few. We have a responsibility to make the best
+of it and share this unique, rare, and powerful knowledge with the World. Try to grow smarter and stronger, so
+that you will make the most impact and perhaps, even help solve wicked problems such as poverty, inequality,
+violence, fanaticism, and prejudice in the world. Enjoy this amazing moment in your life. Dream big. Be kind to
+your peers. Leave your ego outside the door and prove that the good ones can win. This is the Carnegie Mellon
+philosophy.
+Infinity and beyond
+These principles should transfer to your career and life. The only grade out there will be the fruit of your work
+and kindness. Learn to work unconstrained and unbounded. Listen carefully and learn to see with your own eyes.
+Understand the goals, and the challenges ahead of you, and solve them in the most humane, efficient, and
+elegant way. Be brave, be fair, and make yourself heard.
+Life is a sequence of ups and downs. No matter how dire or boring something looks, always throw your whole
+self at it. You build a string of achievements big and small. There is no final destination. Just enjoy the ride and
+leave things better than before.
+Go out to build robots and systems that will help people. If you fail, there is always tomorrow. So at night, sleep
+with a clean conscience, and be ready for another day.
+Sweet dreams!
+Paulo Camasmie
+MRSD Class of 2020
+CEO and Roboticist
+Symbol Robotics Inc.&lt;/p&gt;
+</description>
+                <pubDate>Tue, 12 Mar 2024 08:01:35 -0400</pubDate>
+                <link>http://localhost:4000/blog/paulo</link>
+                <guid isPermaLink="true">http://localhost:4000/blog/paulo</guid>
+                
+                <category>Featured</category>
+                
+                
+            </item>
+        
+            <item>
+                <title>If opportunity doesn’t knock, build a door</title>
+                <description>&lt;p&gt;My time at MRSD was a defining period of growth in my life - not only for the technical and business knowledge that I expected to acquire, but also because of the unexpected learnings assimilated from cross cultural interactions, working on varied teams, and meeting extremely intelligent people. When asked to serve on the MRSD Admissions Committee, I was honored to be trusted with the responsibility to help choose the next cohort that would get the chance to have a similar, potentially life-changing experience.&lt;/p&gt;
+
+&lt;p&gt;In the last decade since my graduation from the MRSD program, I have served on the MRSD Admissions Committee for 7 years, spanning my time in Pittsburgh, after moving to the Bay Area and through the pandemic. In this time, I have worked in various sectors of the industry including a drone-based startup; an independent small team within a larger international company working on drones and gimbals; and a large MNC working on mobile home robots. I have had the freedom and privilege to drive both technical and business related decisions, contribute to cutting-edge robotics products that have a tangible impact, and enable larger adoption of these technologies. Throughout my time in the robotics industry, I have seen the successes of various MRSD students who have gone on to become influential leaders in their fields at work, and it has been heart-warming to see many of them being able to realize the goals mentioned in their MRSD applications. My personal experience in the industry has also enabled me to better gauge how students with varied profiles may fare in their careers, to better select applicants who are well-suited to the MRSD program, and who would be the most benefited.&lt;/p&gt;
+
+&lt;p&gt;Over the years, we’ve seen applicants from different countries, backgrounds and interests but one common theme that runs through most successful applications is a clear focus on industrial-applications usually with a strong affinity for entrepreneurship. While the technological focus of the applications has evolved through the years as robotics has become a more established field, with several subfields coming up, this theme has remained universal. The MRSD course is sought after due to its concentration on industrial applications as compared to many other majors which are more research-focused and this tends to attract applicants who are passionate about creating change in the world - either through building their own ventures or through supporting the efforts of companies doing cutting-edge work in various robotics sectors.&lt;/p&gt;
+
+&lt;p&gt;What started for me as a way of giving back to the MRSD program via my time on the admissions committee, has evolved into a process of learning and bettering myself by understanding various different perspectives - learning from the professors, some of the best in their fields, who have been teaching and evaluating students for decades, from people at the forefront of the robotics industry running their own companies, from other alumni in different work streams and from current students with big aspirations - understanding how each of them bring varied strengths to the table that help holistically evaluate all the applications received while keeping any individual unconscious biases in check, working together to ensure the most deserving students are given offers of admission. I hope to continue contributing to this effort through the years to come, to help make a difference in the lives of students, one application at a time!&lt;/p&gt;
+</description>
+                <pubDate>Tue, 12 Mar 2024 08:01:35 -0400</pubDate>
+                <link>http://localhost:4000/blog/admissions-committee</link>
+                <guid isPermaLink="true">http://localhost:4000/blog/admissions-committee</guid>
+                
+                <category>Featured</category>
+                
+                
+            </item>
+        
+    </channel>
+</rss>

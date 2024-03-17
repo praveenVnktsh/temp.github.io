@@ -1,28 +1,60 @@
 ---
 layout: page
-title: About
+title: Team
 permalink: /about/
-image: '/images/102.jpg'
 ---
 
-In operant conditioning, a reinforcement (by reward) or instead a punishment is given after a given behavior, changing the frequency and/or form of that behavior. Stimulus present when the behavior/consequence occurs come to control these behavior modifications.
+<link rel="stylesheet" href="../assets/styles/about_us_styles.css"/> 
 
-> Sing like no one’s listening, love like you’ve never been hurt, dance like nobody’s watching, and live like it’s heaven on earth.
-
-Observational learning is learning that occurs through observing the behavior of others. It is a form of social learning which takes various forms, based on various processes. In humans, this form of learning seems to not need reinforcement to occur, but instead, requires a social model such as a parent, sibling, friend, or teacher with surroundings.
-
-<div class="gallery-box">
-  <div class="gallery">
-    <img src="/images/103.jpg" loading="lazy">
-    <img src="/images/104.jpg" loading="lazy">
+<section id="team-section">
+  <div class="container">
+    <div class="team-grid">
+      <div class="team-member">
+        <img src="https://www.ri.cmu.edu/app/uploads/2023/09/nmenezes-2-300x450.jpg" alt="Team Member 2"> 
+        <b>Naman Menezes</b><br>
+        Class of 2025
+      </div>
+      <div class="team-member">
+        <img src="https://www.ri.cmu.edu/app/uploads/2023/09/shashwac-4-300x450.jpg" alt="Team Member 2"> 
+        <b>Shashwat Chawla</b><br>
+        Class of 2025
+      </div>
+      <div class="team-member">
+        <img src="https://www.ri.cmu.edu/app/uploads/2023/09/yahuja-4-300x450.jpg" alt="Team Member 2"> 
+        <b>Yatharth Ahuja</b><br>
+        Class of 2025
+      </div>
+      <div class="team-member">
+        <img src="https://www.ri.cmu.edu/app/uploads/2021/07/Venkahesh_Praveen-300x450.jpg" alt="Team Member 1"> 
+        <b>Praveen Venkatesh</b><br>
+        Class of 2024
+      </div>
+      <div class="team-member">
+        <img src="https://www.ri.cmu.edu/app/uploads/2021/07/Tripathy_Shivam-300x450.jpg" alt="Team Member 2"> 
+        <b>Shivam Tripathy</b><br>
+        Class of 2024
+      </div>
+      <div class="team-member">
+        <img src="https://media.licdn.com/dms/image/C5603AQEOxKj0mPEmBQ/profile-displayphoto-shrink_400_400/0/1638276411159?e=1715817600&v=beta&t=97cLL1Tqoi2g7Z68zheEuerkp5BKD2CYUEokK8TLK2s" alt="Team Member 2"> 
+        <b>Edward Terry</b><br>
+        Class of 2019
+      </div>
+      <div class="team-member">
+        <img src="https://media.licdn.com/dms/image/C5603AQGNwBefXxoInw/profile-displayphoto-shrink_400_400/0/1517597265260?e=1715817600&v=beta&t=SEEvao3PnkCWBp_5sdRAnuA8y5fexGM5ewrMqNR4XzA" alt="Team Member 2">         
+        <b>Lekha Mohan</b><br>
+        Class of 2016
+      </div>
+      <div class="team-member">
+        <img src="https://www.ri.cmu.edu/app/uploads/2017/03/conte_sarah_2019_2-300x450.jpg" alt="Team Member 2"> 
+        <b>Sarah Conte</b><br>
+        Program Manager
+      </div>
+      <div class="team-member">
+        <img src="https://www.ri.cmu.edu/app/uploads/2016/12/Dolan_John_2013.jpg" alt="Team Member 2"> 
+        <b>John Dolan</b><br>
+        Program Director
+      </div>
+    </div>
   </div>
-  <em>Gallery / <a href="https://unsplash.com/" target="_blank">Unsplash</a></em>
-</div>
+</section>
 
-Nonformal learning is organized learning outside the formal learning system. For example, learning by coming together with people with similar interests and exchanging viewpoints, in clubs or in (international) youth organizations, workshops.
-
-Informal learning is less structured than "nonformal" one. It may occur through the experience of day-to-day situations (for example, one would learn to look ahead while walking because of the danger inherent in not paying attention to where one is going). It is learning from life, during a meal at the table with parents, play, exploring, etc.
-
-<p><iframe src="https://player.vimeo.com/video/148003889?h=d36b8b4cbb" loading="lazy" width="640" height="360" frameborder="0" allowfullscreen></iframe></p>
-
-The educational system may use a combination of formal, informal, and nonformal learning methods. The UN and EU recognize these different forms of learning (cf. links below). In some schools, students can get points that count in the formal-learning systems if they get work done in informal-learning circuits. They may be given time to assist international youth workshops and training courses, on the condition they prepare, contribute, share, and can prove this offered valuable new insight, helped to acquire new skills, a place to experience.
