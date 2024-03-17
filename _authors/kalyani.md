@@ -1,7 +1,7 @@
 ---
 username: kalyani
 name: Kalyani Nirmal
-image: '/assets/images/authors/kalyani.jpeg'
+image: 'assets/images/authors/kalyani.jpeg'
 cover:
 location: Mexico
 website: https://www.google.com
